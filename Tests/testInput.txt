@@ -1,0 +1,5 @@
+intero main() { 
+    intero a;
+    a = ler();
+    printa(a);
+}
